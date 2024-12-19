@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  phone: 1
+  email: MyString
+  time_in: 2024-12-19 17:05:55
+  time_out: 2024-12-19 17:05:55
+  loyalty_points: 1
+  membership_status: MyString
+
+two:
+  name: MyString
+  phone: 1
+  email: MyString
+  time_in: 2024-12-19 17:05:55
+  time_out: 2024-12-19 17:05:55
+  loyalty_points: 1
+  membership_status: MyString
